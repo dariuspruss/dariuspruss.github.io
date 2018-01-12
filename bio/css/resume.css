@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 body {
-  font-family: 'Open Sans', serif;
+  font-family: 'Montserrat', serif;
   padding-top: 54px;
   color: #868e96; }
 
@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40; }
