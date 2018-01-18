@@ -6,7 +6,9 @@
 body {
   font-family: 'Montserrat', serif;
   padding-top: 54px;
-  color: #868e96; }
+  color: #868e96; 
+font-size: 18px;
+}
 
 @media (min-width: 992px) {
   body {
