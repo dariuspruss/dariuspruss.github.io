@@ -33,9 +33,9 @@ h2 {
   font-size: 3.5rem; }
 
 .subheading {
-  font-weight: 500;
+  font-weight: bold;
   font-family: 'Montserrat', serif;
-  font-size: 1.35rem; }
+  font-size: 1.5rem; }
 
 .list-social-icons a {
   color: #495057; }
