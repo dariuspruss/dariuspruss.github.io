@@ -96,7 +96,7 @@ section.resume-section {
 
 @media (min-width: 768px) {
     section.resume-section .resume-item .resume-date {
-      min-width: 18rem; } }
+      min-width: 12rem; } }
 
 @media (min-width: 992px) {
   section.resume-section {
